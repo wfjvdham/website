@@ -1,4 +1,5 @@
 theme: "hugo-PaperMod"
-baseURL: http://example.org/
+baseURL: https://benevolent-cranachan-2c644f.netlify.app
 languageCode: en-us
-title: My New Hugo Site
+title: Wim van der Ham
+defaultTheme: dark
